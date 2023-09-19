@@ -5,4 +5,6 @@
 * [Technical Aspects](technical-aspects.md)
 * [Market Analysis](market-analysis.md)
 * [SWOT Analysis](swot-analysis.md)
+* [Community Engagement](community-engagement.md)
 * [Tokenomics](tokenomics.md)
+* [Roadmap](roadmap.md)
