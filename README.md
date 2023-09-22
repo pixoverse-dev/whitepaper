@@ -1,6 +1,7 @@
 ---
 description: Introduction & Background
-coverY: 0
+cover: .gitbook/assets/Banner Gitbook.png
+coverY: 79
 ---
 
 # PIXOVERSE
